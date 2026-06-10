@@ -54,6 +54,6 @@ The transistors are sized intentionally to guarantee stable feedback loop operat
 
 ```
 ## Contributors
-* [Shashikant](https://github.com/Shashi-kalal)
+* [Shashikant Kalal](https://github.com/Shashi-kalal)
 * [Tejaswini K N](https://github.com/tejaswini1009)
 
