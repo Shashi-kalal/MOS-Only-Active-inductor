@@ -1,7 +1,7 @@
 # Design and Analysis of MOS-Only Active Inductor Circuit
 
 ## Project Description
-This repository contains the design, simulation, and parametric evaluation of a fully integrated, compact, low-power MOS-only grounded active inductor circuit. Conventional on-chip spiral inductors occupy extensive silicon area, exhibit low quality factors ($Q = 3\text{--}10$) due to substrate losses, and lack electronic tunability. 
+This repository contains the design, simulation, and parametric evaluation of a fully integrated, compact, low-power MOS-only active inductor circuit. Conventional on-chip spiral inductors occupy extensive silicon area, exhibit low quality factors ($Q = 3\text{--}10$) due to substrate losses, and lack electronic tunability. 
 
 This project addresses these limitations by leveraging a gyrator-capacitor (gyrator-C) architecture implemented in standard 180 nm CMOS technology. By substituting physical coils with common-gate and common-source transistor configurations, the circuit eliminates external biasing current sources or passive components, making it a true MOS-only implementation optimized for RF integrated circuits (RFICs).
 
