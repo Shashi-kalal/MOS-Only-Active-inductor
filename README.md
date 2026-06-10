@@ -51,6 +51,7 @@ The transistors are sized intentionally to guarantee stable feedback loop operat
  ┃ ┣ 📜 quality_factor_linear.png # Linear scale curve illustrating peak Q
  ┃ ┗ 📜 noise_spectral_density.png# Flicker and thermal noise spectral plots
  ┗ 📜 README.md                   # Project documentation and analysis
+---
 
 ## Contributors
 * [Shashikant](https://github.com/Shashi-kalal)
